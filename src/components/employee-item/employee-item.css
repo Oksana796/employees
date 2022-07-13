@@ -50,7 +50,7 @@
   opacity: 0;
 }
 
-.list-group-item.like .fa-star {
+.list-group-item .like .fa-star {
   opacity: 1;
   transform: translateX(0px);
 }
@@ -60,6 +60,6 @@
   color: #e09f3e;
 }
 
-.list-group-item.increase .btn-star {
+.list-group-item .increase .btn-star {
   color: #aeaeae;
 }
